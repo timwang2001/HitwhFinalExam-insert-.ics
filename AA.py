@@ -1,5 +1,6 @@
 from ics import Calendar, Event
 import re
+<<<<<<< HEAD
 # -*- coding: UTF-8 -*-
 '''
 这是我用一个python库写的
@@ -7,6 +8,11 @@ import re
 开发文档的sample放在这了
 需要用的话 把main.py中的#AA.standardlized(classnum, totlist)取消注释就行
 '''
+=======
+# 这是我直接饮用的一个Python库 据说能读写ics文件
+# 反正我试了试是不好使的 是乱码..
+# 开发文档的sample放在这了
+>>>>>>> 09e918b2349c0d30888e0496a41cc46dbe551d8c
 
 # c = Calendar()
 # e1 = Event()
