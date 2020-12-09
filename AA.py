@@ -1,5 +1,7 @@
 from ics import Calendar, Event
 import re
+# -*- coding: UTF-8 -*-
+
 # c = Calendar()
 # e1 = Event()
 # e = Event()
