@@ -1,5 +1,9 @@
 from ics import Calendar, Event
 import re
+# 这是我直接饮用的一个Python库 据说能读写ics文件
+# 反正我试了试是不好使的 是乱码..
+# 开发文档的sample放在这了
+
 # c = Calendar()
 # e1 = Event()
 # e = Event()
