@@ -41,7 +41,7 @@ def dealwithexcel(path, classnum):
                 print(r)
                 totlist.append(r)
     B.standardlized(classnum, totlist)
-    AA.standardlized(classnum, totlist)
+    #AA.standardlized(classnum, totlist)
 
 
 if __name__ == "__main__":

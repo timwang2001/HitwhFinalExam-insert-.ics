@@ -1,6 +1,12 @@
 from ics import Calendar, Event
 import re
 # -*- coding: UTF-8 -*-
+'''
+这是我用一个python库写的
+不知道为什么不好使 可能是编码问题吧
+开发文档的sample放在这了
+需要用的话 把main.py中的#AA.standardlized(classnum, totlist)取消注释就行
+'''
 
 # c = Calendar()
 # e1 = Event()
